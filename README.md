@@ -51,4 +51,3 @@ El siguiente paso en la evolución de este proyecto será desplegar la funcional
 2. 🔐 Almacenar credenciales de forma segura en AWS Secrets Manager o Parameter Store
 3. ⏰ Configurar triggers automáticos con EventBridge (CloudWatch Events)
 4. 🌐 Exponer funcionalidad mediante API Gateway
-5. 📊 Implementar logging y monitoreo con CloudWatch
